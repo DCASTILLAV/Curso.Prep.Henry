@@ -3,6 +3,9 @@
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString ='Hola como estas, mi nombre es Danny';
 
+// Crea una variable "string", puede contener lo que quieras:
+const probandoString ='Computacion e informatica';
+
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
 
