@@ -9,6 +9,9 @@ const probandoString ='Computacion e informatica';
 // Crea una variable "string", puede contener lo que quieras:
 const probandoString2 ='Nuevo';
 
+//creamos una variable para almacenar Juan Perez
+var Nombre="Juan Perez";
+
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = null;
 
