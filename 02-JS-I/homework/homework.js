@@ -7,7 +7,7 @@ const nuevaString ='Hola como estas, mi nombre es Danny';
 const probandoString ='Computacion e informatica';
 
 // Crea una variable "string", puede contener lo que quieras:
-const probandoString2 ='Nuevo';
+const probandoString2 ='Nuevo 123';
 
 //creamos una variable para almacenar Juan Perez
 var Nombre="Juan Perez";
